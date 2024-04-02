@@ -1,0 +1,16 @@
+object Versions {
+    const val androidXCore = "core-ktx:1.8.0"
+    const val androidXLifeCycle = "lifecycle-runtime-ktx:2.3.1"
+    const val androidXActivity = "activity-compose:1.5.1"
+    const val compose = "1.4.3"
+    const val composeMaterial3 = "1.1.1"
+    const val composeCompiler = "1.4.6"
+    const val composeBom = "2022.10.00"
+    const val junit = "4.13.2"
+    const val androidxTestExtension = "junit:1.1.5"
+    const val androidxTestEspresso = "espresso-core:3.5.1"
+    const val hilt = "2.45"
+    const val okHttp = "5.0.0-alpha.2"
+    const val retrofit = "2.9.0"
+    const val room = "2.5.0"
+}
